@@ -9,6 +9,8 @@ Introduction
 The Tip Time app contains various UI elements for calculating a tip,
 teaching about user input, and State in Compose.
 
+![image](https://github.com/hari-o7/TipTime/assets/108185719/13a6d714-a942-4e1e-b018-81c0067e1a04)
+
 
 Pre-requisites
 --------------
